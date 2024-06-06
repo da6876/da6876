@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhali Abir</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
-<img width="400" align="right" src="https://pbs.twimg.com/media/El_fhePUYAA4H9y.jpg" alt="dhaliabir" />
+<img width="400" align="right" src="https://pbs.twimg.com/media/El_fhePUYAA4H9y.jpg" width="50%" alt="dhaliabir" />
 
 
 - 🔭 I’m currently working As **Security Consultant**
