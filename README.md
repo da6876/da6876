@@ -4,21 +4,13 @@
 
 <img width="400" align="right" src="https://pbs.twimg.com/media/El_fhePUYAA4H9y.jpg" alt="dhaliabir" />
 
-- 🔭 I’m currently working on **Big Data Analysis**
+- 🔭 I’m currently working As **Security Consultant**
 
 - 🌱 I’m currently learning **Python & Django Framework**
 
-- 👯 I’m looking to collaborate on **Mobile Application, Web Application Development**
+- 👯 I’m looking to collaborate on **Mobile and Web Application Development**
 
 - 🤝 I’m looking for help with **Python Big Data Analysis**
-
-- 👨‍💻 All of my projects are available at [dhaliabir.info](dhaliabir.info)
-
-- 💬 Ask me about **Java, PHP, Laravel**
-
-- 📫 How to reach me **abirdhali6876@gmail.com**
-
-- ⚡ Fun fact **I think I'm not funny.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da6876&label=Profile%20views&color=0e75b6&style=flat" alt="da6876" /> </p>
