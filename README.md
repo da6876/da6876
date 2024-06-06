@@ -20,11 +20,8 @@
 <a href="https://fb.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhaliabir" height="30" width="40" /></a>
 <a href="https://instagram.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhaliabir" height="30" width="40" /></a>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=da6876&label=Profile%20views&color=0e75b6&style=flat" alt="da6876" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=da6876" alt="da6876" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhaliabir" target="blank"><img src="https://img.shields.io/twitter/follow/dhaliabir?logo=twitter&style=for-the-badge" alt="dhaliabir" /></a> </p>
 
 
 
