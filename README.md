@@ -3,13 +3,7 @@
 <h3 align="center">I'm Software Engineer</h3>
 
 <img width="400" align="right" src="https://pbs.twimg.com/media/El_fhePUYAA4H9y.jpg" alt="dhaliabir" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaliabir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abirdhali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abirdhali" height="30" width="40" /></a>
-<a href="https://fb.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhaliabir" height="30" width="40" /></a>
-<a href="https://instagram.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhaliabir" height="30" width="40" /></a>
-</p>
+
 
 - 🔭 I’m currently working As **Security Consultant**
 
@@ -19,7 +13,13 @@
 
 - 🤝 I’m looking for help with **Python Big Data Analysis**
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhaliabir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abirdhali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abirdhali" height="30" width="40" /></a>
+<a href="https://fb.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhaliabir" height="30" width="40" /></a>
+<a href="https://instagram.com/dhaliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhaliabir" height="30" width="40" /></a>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=da6876&label=Profile%20views&color=0e75b6&style=flat" alt="da6876" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=da6876" alt="da6876" /></a> </p>
